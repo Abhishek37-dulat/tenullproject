@@ -3,7 +3,6 @@ import {
   Box,
   Typography,
   styled,
-  colors,
   Dialog,
   DialogContent,
   DialogContentText,

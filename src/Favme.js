@@ -1,5 +1,5 @@
 import React from "react";
-import { Box, Typography, styled, colors } from "@mui/material";
+import { Box, Typography, styled } from "@mui/material";
 import mainimg from "./cool.png";
 
 const HomePage = styled(Box)(({ theme }) => ({
